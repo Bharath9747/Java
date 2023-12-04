@@ -31,6 +31,6 @@ Design an Online Banking System that represents various entities within the bank
 6. *Interface Implementation:*
   - Implement the TransactionHistory interface in both SavingsAccount and CheckingAccount to view transaction history.
   - Implement the OverdraftProtection interface in the CheckingAccount to handle overdraft situations.
-Ensure to create an application (OnlineBankingApp) that demonstrates the functionalities of different accounts within the Online Banking System.
+<br>Ensure to create an application (OnlineBankingApp) that demonstrates the functionalities of different accounts within the Online Banking System.
 This should involve creating instances of various accounts, depositing and withdrawing money, viewing transaction history, applying overdraft protection, 
 and showcasing the use of different access modifiers, method overloading, overriding, type conversion, and interfaces.
