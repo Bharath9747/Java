@@ -1,12 +1,8 @@
 # Java-Fundamentals
 1.create a class with Strings declared String s = "Hello" and String s1= "Hello" and String s2= new String("Hello") and evaluate s==s1 and s1==s2.<br>
-2.Write a program that solves the following equation and displays the value for x and y:
-					3.4x + 50.2y = 44.5
-					2.1x + .55y = 5.9
+2.Write a program that solves the following equation and displays the value for x and y: 3.4x + 50.2y = 44.5,2.1x + .55y = 5.9
 <br>
-
 3.Design a shape hierarchy (circle, rectangle, and triangle) with a common interface for calculating area. Create a method that takes an array of shapes and prints the area of each shape without knowing the specific type of each shape at compile time.
-
 <br>
 4.Model a company's employee hierarchy. Define a base class for employees with common attributes (name, ID, salary) and methods. Create subclasses for different types of employees (full-time, part-time, and contract) with specific attributes and methods
 <br>
